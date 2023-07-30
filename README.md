@@ -33,8 +33,5 @@
 
 <h2 align="center">👉 For more details and usage instructions, check out the Wiki section of this repository.</h2>
 
-<p align="center">
-  <a href="https://your-wiki-url-here" target="_blank"><img src="https://wiki-image-url-here" alt="Wiki" width="150"></a>
-</p>
 
 <p align="center">🌟 We hope you find this project helpful! Happy coding! 🚀</p>
